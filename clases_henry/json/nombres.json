@@ -1,0 +1,13 @@
+
+{
+    "nombre": "Adrian",
+    "apellido": "Moreno",
+    "edad": 27,
+    "visitadoParis": false,
+    "ciudadesVisitadas": ["Ccs","Mérida", "Apure"],
+    "vehiculos": {
+        "moto": "Arsen II",
+        "moto2": "Benelli",
+        "Carro": "Aveo"
+    } 
+}
